@@ -1,0 +1,7 @@
+{
+  "@aws-cdk/core:enableStackNameDuplicates": "true",
+  "hosted-zone:account=072319143516:domainName=thedev.cloud:region=us-east-1": {
+    "Id": "/hostedzone/Z2P5QOTQII5Q07",
+    "Name": "thedev.cloud."
+  }
+}
