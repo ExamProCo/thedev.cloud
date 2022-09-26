@@ -24,7 +24,7 @@
     "@aws-cdk/aws-s3": "*",
     "@aws-cdk/aws-s3-deployment": "*",
     "@aws-cdk/core": "*",
-    "aws-cdk": "^1.18.0",
+    "aws-cdk": "^1.174.0",
     "ts-node": "^8.1.0",
     "typescript": "~3.7.2"
   },
